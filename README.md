@@ -3,9 +3,19 @@
 
 ---
 
+20170810
+![ao](https://raw.githubusercontent.com/xuqiang76/text/master/img/aaaaoo.jpg)
+
+---
+
 20170818
 - 为什么要持续优化
 ![为什么要持续优化](https://raw.githubusercontent.com/xuqiang76/text/master/img/time_job.png)
+
+---
+
+20170818
+![worker](https://raw.githubusercontent.com/xuqiang76/text/master/img/worker.jpg)
 
 ---
 
