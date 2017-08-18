@@ -5,20 +5,19 @@
 
 20170810
 - ao
-
-![ao](https://raw.githubusercontent.com/xuqiang76/text/master/img/aaaaoo.jpg)
+- ![ao](https://raw.githubusercontent.com/xuqiang76/text/master/img/aaaaoo.jpg)
 
 ---
 
 20170818
 - 为什么要持续优化
-![为什么要持续优化](https://raw.githubusercontent.com/xuqiang76/text/master/img/time_job.png)
+- ![为什么要持续优化](https://raw.githubusercontent.com/xuqiang76/text/master/img/time_job.png)
 
 ---
 
 20170818
 - program
-![worker](https://raw.githubusercontent.com/xuqiang76/text/master/img/worker.jpg)
+- ![worker](https://raw.githubusercontent.com/xuqiang76/text/master/img/worker.jpg)
 
 ---
 
