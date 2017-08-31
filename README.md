@@ -3,6 +3,11 @@
 
 ---
 
+20170831
+- 工作是属于公司的，而职业生涯却是属于你自己的。	——厄尔•南丁格尔
+
+---
+
 20170810
 - ao
 - ![ao](https://raw.githubusercontent.com/xuqiang76/text/master/img/aaaaoo.jpg)
