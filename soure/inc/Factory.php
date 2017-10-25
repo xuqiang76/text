@@ -65,14 +65,16 @@ class Factory extends BaseObject
 	public function initialize()
 	{
 		$strobj = null;
-		if($this->objkey == null || $this->server_key == null){
+		if($this->objkey == null || $this->server_key == null)
+		{
 			return false;
 		}
 		if($this->timeout !== null)
 		{
 			$strobj = $this->dbobj->get($this->server_key, $this->objkey);
 		}
-		if( $strobj === false ){
+		if( $strobj === false )
+		{
 			return false;
 		}
 		if( $strobj !== null )

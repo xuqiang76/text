@@ -38,6 +38,9 @@ class Business
 	//登录
 	public function login($params)
 	{
+		//账号+密码登录
+		//手机号+短信验证码登录
+		//微信登录
 	}
 
 	//检验用户登录状态（key值）

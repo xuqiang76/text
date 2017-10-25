@@ -35,7 +35,7 @@ class UserFactory extends Factory
         return true;
     }
 
-    public function retrive() 
+    public function retrive()
     {
         $records = BaseFunction::query_sql_backend($this->sql);
         if( !$records ) 

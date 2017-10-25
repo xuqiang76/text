@@ -13,7 +13,7 @@ class Config
         const MC_SERVERS = array(array('127.0.0.1',11211));
 
         //数据库
-        const DB_HOST = '10.66.182.68';
+        const DB_HOST = '10.23.22.21';
         const DB_USERNAME = 'dbuser';
         const DB_PASSWD = 'DB@passwd';
         const DB_DBNAME = 'test_game_sx';
