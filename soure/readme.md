@@ -26,7 +26,6 @@
     - URL Rewrite
     - IOC控制的反转（根据注入来实例化service）
     - AOP面向切面编程（静态代理，动态代理invoke，前置增强before，后置增强after，环绕增强around）
-    - 事物 transaction 管理代理（数据库，各种锁的方式）
     - 一些独立的功能模块（安全模块，会话管理，加密，配置文件读取。。。）
     - 。。。
 
