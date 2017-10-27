@@ -27,7 +27,7 @@ class CatHead
      */
 	public static function set_root_path($root_path)
 	{
-		self::$_autoload_root = $root_path;
+		self::$_autoload_root_path = $root_path;
 	}
 
 	/**
