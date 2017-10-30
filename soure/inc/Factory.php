@@ -19,6 +19,7 @@ class Factory extends BaseObject
 
 	function __construct($dbobj, $server_key, $objkey, $timeout=3600)
 	{
+		$this->obj = null;
 		$this->dbobj = $dbobj;
 		$this->server_key = $server_key;
 		$this->objkey = $objkey;
@@ -69,14 +70,16 @@ class Factory extends BaseObject
 		{
 			return false;
 		}
+
 		if($this->timeout !== null)
 		{
 			$strobj = $this->dbobj->get($this->server_key, $this->objkey);
+			if( $strobj === false )
+			{
+				return false;
+			}		
 		}
-		if( $strobj === false )
-		{
-			return false;
-		}
+
 		if( $strobj !== null )
 		{
 			$obj = igbinary_unserialize($strobj);

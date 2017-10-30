@@ -19,7 +19,6 @@ class CatConstant
 	const ERROR_VERIFY = 5;
 	const ERROR_ARGUMENT = 6;
 	const ERROR_VERSION = 7;
-	const CNT_PER_PAGE = 20;
 
 	const MODELS = array('Business' => '\bigcat\controller\Business');
 

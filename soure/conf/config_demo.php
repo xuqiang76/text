@@ -10,7 +10,7 @@ class Config
         const DEBUG = false;    //release version must false
         const PLATFORM = 'gfplay';
 
-        const MC_SERVERS = array(array('127.0.0.1',11211));
+        const MC_SERVERS = array(array('127.0.0.1',11211), array('10.0.0.3',11211));
 
         //数据库
         const DB_HOST = '10.23.22.21';
