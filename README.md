@@ -3,6 +3,9 @@
 
 ---
 
+20171213
+- socket 的科普 <https://www.cnblogs.com/kex1n/p/6501977.html>
+
 20171212
 - 程序员的使命
 	- 实现功能
