@@ -5,6 +5,7 @@
 
 20171215
 - 每个程序员都应该收藏的算法复杂度速查表 <http://www.techug.com/post/bigo-cheatsheet.html>
+- ![算法复杂度](https://github.com/xuqiang76/text/raw/master/img/big_O.png)
 
 ---
 
