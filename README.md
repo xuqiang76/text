@@ -3,6 +3,11 @@
 
 ---
 
+20171215
+- 每个程序员都应该收藏的算法复杂度速查表 <http://www.techug.com/post/bigo-cheatsheet.html>
+
+---
+
 20171213
 - socket 的科普 <https://www.cnblogs.com/kex1n/p/6501977.html>
 
