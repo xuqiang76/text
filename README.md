@@ -3,6 +3,12 @@
 
 ---
 
+20180105
+- 千鸟在林 不如一鸟在手
+- ![千鸟在林 不如一鸟在手](https://raw.githubusercontent.com/xuqiang76/text/master/img/bird20180105.jpg)
+
+---
+
 20171225 
 - 技术是有需求的，不主动面对它，就会被动地被它拖着走；选哪样？面对最初的目标
 
