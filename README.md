@@ -4,6 +4,11 @@
 ---
 
 20180105
+- 李小璐出轨也算一种修行
+
+---
+
+20180105
 - 千鸟在林 不如一鸟在手
 - ![千鸟在林 不如一鸟在手](https://raw.githubusercontent.com/xuqiang76/text/master/img/bird20180105.jpg)
 
