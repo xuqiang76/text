@@ -55,7 +55,7 @@ systemctl restart sshd.service
 
 #### 载入新的yum源 ####
 ```
-rpm -Uvh ftp://195.220.108.108/linux/centos/7.3.1611/extras/x86_64/Packages/epel-release-7-9.noarch.rpm
+rpm -Uvh http://www.rpmfind.net/linux/centos/7.4.1708/extras/x86_64/Packages/epel-release-7-9.noarch.rpm
 rpm -Uvh http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
 
 #rpm -Uvh http://ftp.iij.ad.jp/pub/linux/fedora/epel/7/x86_64/e/epel-release-7-9.noarch.rpm
