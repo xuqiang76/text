@@ -332,7 +332,8 @@ Nslookup hbios.gfplay.cn dns64.6box.cn
 
 ---
 
-
+#### 查看一个端口的连接数 ####
+ netstat -nat|grep -i "261"|wc -l 
 
 
 
