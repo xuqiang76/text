@@ -1,7 +1,7 @@
 #### 服务器环境：CentOS 7.X 64位 ####
 
     first time 2017-01-05
-    last time 2017-08-08
+    last time 2018-04-13    
     author xuqiang76@163.com
 
 ---
@@ -75,7 +75,7 @@ echo 'export LANG=zh_CN.UTF-8' >> /home/sshuser/.bash_profile
 
 #### centos7.0 没有netstat 和 ifconfig命令问题 ####
 ```
-yum install net-tools
+yum install -y net-tools
 ```
 ---
 
@@ -228,11 +228,6 @@ done
 ```
 ---
 
-#### 支持中文 ####
-```
-echo "export LANG=zh_CN.UTF-8" >> /home/sshuser/.bash_profile
-```
----
 
 #### svn cleanup 报错的时候解决 ####
 参考 <http://blog.csdn.net/luojian520025/article/details/22196865>
@@ -337,4 +332,19 @@ Nslookup hbios.gfplay.cn dns64.6box.cn
 
 
 
-####    ####
+####  yum golang  安裝 on CentOS  ####
+rpm --import https://mirror.go-repo.io/centos-unstable/RPM-GPG-KEY-GO-REPO
+curl -s https://mirror.go-repo.io/centos-unstable/go-repo-unstable.repo | tee /etc/yum.repos.d/go-repo-unstable.repo
+
+yum install golang -y
+rpm -qa|grep golang
+
+#编辑 .bash_profile
+# export PATH=$PATH:$HOME/go/bin
+# export GOPATH=$HOME/go
+
+---
+
+
+
+###    ###
