@@ -330,18 +330,24 @@ Nslookup hbios.gfplay.cn dns64.6box.cn
 #### 查看一个端口的连接数 ####
  netstat -nat|grep -i "261"|wc -l 
 
-
+---
 
 ####  yum golang  安裝 on CentOS  ####
+
 rpm --import https://mirror.go-repo.io/centos-unstable/RPM-GPG-KEY-GO-REPO
+
 curl -s https://mirror.go-repo.io/centos-unstable/go-repo-unstable.repo | tee /etc/yum.repos.d/go-repo-unstable.repo
 
 yum install golang -y
+
 rpm -qa|grep golang
 
 #编辑 .bash_profile
+
 #export PATH=$PATH:$HOME/go/bin
+
 #export GOPATH=$HOME/go
+
 
 ---
 
