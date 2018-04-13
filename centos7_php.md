@@ -340,8 +340,8 @@ yum install golang -y
 rpm -qa|grep golang
 
 #编辑 .bash_profile
-# export PATH=$PATH:$HOME/go/bin
-# export GOPATH=$HOME/go
+#export PATH=$PATH:$HOME/go/bin
+#export GOPATH=$HOME/go
 
 ---
 
