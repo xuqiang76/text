@@ -5,6 +5,7 @@
 
 20180425
 - 即使极度聪明，在专业领域没有相当的实践经验，会大概率做出错误的论断。（纸上得来终觉浅，绝知此事要躬行）
+- ![just do it](https://github.com/xuqiang76/text/raw/master/img/luyou3.jpeg)
 
 ---
 
