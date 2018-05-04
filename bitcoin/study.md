@@ -66,6 +66,13 @@ bitcoin
     节点的四个功能模块：钱包，矿工，完整的区块链数据库，网络路由
 
 #### 区块链结构
+    结构
+        4 bytes  Version	Block version number
+        32 bytes hashPrevBlock
+        32 bytes hashMerkleRoot
+        4 bytes Time
+        4 bytes Bits
+        4 bytes Nonce
     区块哈希值实际上并不包含在区块的数据结构里，
     区块高度也不是区块数据结构的一部分， 它并不被存储在区块里。
     每一个节点都“知道”创世区块的哈希值、结构、被创建的时间和里面的一个交易。

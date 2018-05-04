@@ -680,7 +680,7 @@
 	UML/MDA（模型驱动的构架方式）
 		解决编写代码的问题，可是代码从来都不是问题
 	
-	sublime / SV code
+	sublime / VS code
 	20170714 补充
 	```
 
