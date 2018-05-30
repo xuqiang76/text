@@ -3,6 +3,20 @@
 
 ---
 
+20180515
+- docker <http://www.runoob.com/docker/centos-docker-install.html>
+
+---
+
+20180515
+- php 函数
+	- array_filter
+	- array_map
+	- array_walk
+	- array_reduce
+
+---
+
 20180510
 - 换了企业宽带
 - 菜刀砍手指了，打一针破伤风
