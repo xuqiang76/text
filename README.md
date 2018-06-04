@@ -5,6 +5,8 @@
 
 20180604
 - 程序员不只是实现业务逻辑，更因该关注开发工作的过程，这一直是软件技术发展的方向。
+- 荒诞世界的生存法则（译文）<http://www.ruanyifeng.com/blog/2010/07/how_to_live_in_an_absurd_world.html>
+- 文案大师山口拓朗 <https://www.jianshu.com/p/87aa82c12cd8>
 
 ---
 
