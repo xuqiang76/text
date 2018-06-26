@@ -9,21 +9,33 @@
 	- 方法
 		
 		- 增加：
+		
+		```
 			$product = new Product();
 			$entityManager->insert($product);
+		```
 
 		- 查询： 
+		
+		```
 			$entityManager->find('Product', $id)
+		```
 
 		- 更新：
+		
+		```
 			$product = $entityManager->find('Product', $id);
 			$product->setName($newName);
 			$entityManager->update();
+		```
 
 		- 删除：
+		
+		```
 			$product = $entityManager->find('Product', $id);
 			$product->remove();
-
+		```
+		
 		- List 一组主键
 		
 		- 原生 SQL
