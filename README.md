@@ -35,7 +35,7 @@
 			$product = $entityManager->find('Product', $id);
 			$product->remove();
 		```
-		
+
 		- List 一组主键
 		
 		- 原生 SQL
@@ -43,11 +43,13 @@
 		- 支持事务处理
 
 	- 几种关联（外键控制数据一致，一般不使用）：
+	
+	```
 		一对一
 		一对多
 		多对一
 		多对多		
-
+	```
 
 	- 项目几个实现过程：
 		- Code First：先用代码写好Object，然后根据Object生成数据库
