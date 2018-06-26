@@ -3,6 +3,53 @@
 
 ---
 
+20180626
+- ORM系统封装
+
+	- 方法
+		
+		- 增加：
+			$product = new Product();
+			$entityManager->insert($product);
+
+		- 查询： 
+			$entityManager->find('Product', $id)
+
+		- 更新：
+			$product = $entityManager->find('Product', $id);
+			$product->setName($newName);
+			$entityManager->update();
+
+		- 删除：
+			$product = $entityManager->find('Product', $id);
+			$product->remove();
+
+		- List 一组主键
+		
+		- 原生 SQL
+
+		- 支持事务处理
+
+	- 几种关联（外键控制数据一致，一般不使用）：
+		一对一
+		一对多
+		多对一
+		多对多		
+
+
+	- 项目几个实现过程：
+		- Code First：先用代码写好Object，然后根据Object生成数据库
+		- Model First：先用工具写好UML，然后根据UML生成数据库和PHP代码
+		- Database First：先写好数据库的schema表，然后生成PHP代码
+
+	- 缓存机制（APC，Memcached，Redis）,支持 （multi_get, multi_set）
+
+
+
+---
+
+---
+
 20180604
 - 程序员不只是实现业务逻辑，更要关注开发工作的过程，这一直是软件技术发展的方向。
 - 荒诞世界的生存法则（译文）<http://www.ruanyifeng.com/blog/2010/07/how_to_live_in_an_absurd_world.html>
