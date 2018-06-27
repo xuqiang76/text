@@ -12,7 +12,7 @@
 		
 		```
 			$product = new Product();
-			$entityManager->insert($product);
+			$product->insert();
 		```
 
 		- 查询： 
@@ -26,14 +26,14 @@
 		```
 			$product = $entityManager->find('Product', $id);
 			$product->setName($newName);
-			$entityManager->update();
+			$product->update();
 		```
 
 		- 删除：
 		
 		```
 			$product = $entityManager->find('Product', $id);
-			$product->remove();
+			$product->del();
 		```
 
 		- List 一组主键
