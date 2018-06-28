@@ -4,6 +4,20 @@
 ---
 
 20180626
+- sublime text3 插件
+	- alignment
+	- docblockr
+	- emmet
+	- phpfmt
+	- gosublime
+	- converttoutf8
+	- codeformatter
+	- side bar
+	- pagckage control
+
+---
+
+20180626
 - ORM系统封装
 
 	- 方法
