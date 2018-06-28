@@ -5,15 +5,14 @@
 
 20180626
 - sublime text3 插件
-	- alignment
-	- docblockr
-	- emmet
-	- phpfmt
-	- gosublime
-	- converttoutf8
-	- codeformatter
-	- side bar
-	- pagckage control
+	- docblockr （文档注释）
+	- emmet （html格式提示）
+	- phpfmt （php格式化）
+	- gosublime （go格式化）
+	- converttoutf8 （读取和保存各种编码格式）
+	- side bar （侧边栏控制）
+	- pagckage control（插件控制）
+	- sublimelinter （语法检查）
 
 ---
 
