@@ -8,6 +8,26 @@
 	- docblockr （文档注释）
 	- emmet （html格式提示）
 	- phpfmt （php格式化）
+	```
+		{
+		"version": 2,
+		"autocomplete": true,
+		"enable_auto_align": true,
+		"php_bin":"D:/port/php/php.exe",
+		"format_on_save":true,
+		"indent_with_space": true,
+		    "passes":
+		    [
+		        "OnlyOrderUseClauses",
+		        "ReindentSwitchBlocks",
+		        "MergeElseIf"
+		    ],
+		"option": "value",
+		"psr2": true,
+		}
+	
+	```
+
 	- gosublime （go格式化）
 	- converttoutf8 （读取和保存各种编码格式）
 	- side bar （侧边栏控制）
