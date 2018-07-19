@@ -3,11 +3,24 @@
 
 ---
 
+20180719
+- 中间件常见功能
+	- 登录校验
+	- 抓取各类异常，做log记录
+	- 抓取异常，客户端输出
+	- 参数校验（filter 过滤器）
+	- 客户端平台校验（HTTP_USER_AGENT 以区分 ios android web h5）
+	- RPC调用安全校验
+	- 路由
+
+---
+
 20180626
 - sublime text3 插件
 	- docblockr （文档注释）
 	- emmet （html格式提示）
 	- phpfmt （php格式化）
+
 	```
 		{
 		"version": 2,
