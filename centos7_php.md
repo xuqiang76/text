@@ -14,6 +14,18 @@ cat /etc/centos-release
 参考
  <http://www.centoscn.com/CentosSecurity/CentosSafe/2015/0126/4558.html>
     
+---
+
+#### php7安装 ####
+# https://jingyan.baidu.com/article/7f41ecec2d3c04593d095c24.html
+
+---
+
+#### zsh+on-my-zsh全程指南 ####
+https://segmentfault.com/a/1190000013612471?utm_source=tag-newest
+
+---
+
 #### 更改 root 密码 ####
 ```
 passwd
@@ -97,6 +109,7 @@ systemctl restart memcached.service
 yum -y install subversion.x86_64
 yum -y install lrzsz.x86_64
 ```
+
 ---
 
 #### php安装 ####
