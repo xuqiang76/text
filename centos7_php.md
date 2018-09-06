@@ -8,6 +8,7 @@
 
 ### linux 下fish shell的安装 ###
 <https://blog.csdn.net/fusugongzi/article/details/77966133>
+<http://www.ruanyifeng.com/blog/2017/05/fish_shell.html>
 
 ---
 
