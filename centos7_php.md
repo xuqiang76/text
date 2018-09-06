@@ -1,8 +1,13 @@
 #### 服务器环境：CentOS 7.X 64位 ####
 
     first time 2017-01-05
-    last time 2018-04-13    
+    last time 2018-09-06   
     author xuqiang76@163.com
+
+---
+
+### linux 下fish shell的安装 ###
+<https://blog.csdn.net/fusugongzi/article/details/77966133>
 
 ---
 
