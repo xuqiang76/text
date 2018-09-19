@@ -28,8 +28,7 @@
 - NULL值/mysql函数
 - 参考书《高性能MySQL》
 
-#### CAP 定理的含义(分布式系统的三个指标
-) ####
+#### CAP 定理的含义(分布式系统的三个指标) ####
  - <http://www.ruanyifeng.com/blog/2018/07/cap.html>
 
 #### 加密技术 ####
