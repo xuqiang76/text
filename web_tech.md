@@ -29,6 +29,8 @@
 - NULL值/mysql函数
 - 对象操作数据/原子sql/并发/事物处理（锁）
 - 参考书《高性能MySQL》
+- ![参考书《高性能MySQL》](https://github.com/xuqiang76/text/raw/master/img/mysql.png)
+
 
 #### CAP 定理的含义(分布式系统的三个指标) ####
  - <http://www.ruanyifeng.com/blog/2018/07/cap.html>
