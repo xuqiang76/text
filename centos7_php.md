@@ -1,3 +1,14 @@
+
+#### git 自建管理 ####
+    <https://gogs.io/>
+
+---
+
+#### java 自动部署 ####
+    jenkins自动部署<https://blog.csdn.net/zhangzhangjava/article/details/78425106>
+
+---
+
 #### 服务器环境：CentOS 7.X 64位 ####
 
     first time 2017-01-05
