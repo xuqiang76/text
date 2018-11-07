@@ -1,4 +1,10 @@
 
+#### yum 安装java 环境 ####
+
+<https://blog.csdn.net/evan_chen_1/article/details/55097252>
+
+---
+
 #### git 自建管理 ####
 
 <https://gogs.io/>
