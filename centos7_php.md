@@ -1,11 +1,14 @@
 
 #### git 自建管理 ####
-    <https://gogs.io/>
+
+<https://gogs.io/>
 
 ---
 
 #### java 自动部署 ####
-    jenkins自动部署<https://blog.csdn.net/zhangzhangjava/article/details/78425106>
+
+jenkins自动部署
+<https://blog.csdn.net/zhangzhangjava/article/details/78425106>
 
 ---
 
