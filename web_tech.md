@@ -56,6 +56,24 @@
 
 #### 加密技术 ####
  - <http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html>
+ - <http://blog.sina.com.cn/s/blog_148a693f10102vj8m.html>
+
+```
+SSH是一种网络协议，用于计算机之间的加密登录。
+如果一个用户从本地计算机，使用SSH协议登录另一台远程计算机，我们就可以认为，这种登录是安全的，即使被中途截获，密码也不会泄露。
+最早的时候，互联网通信都是明文通信，一旦被截获，内容就暴露无疑。
+1995年，芬兰学者Tatu Ylonen设计了SSH协议，将登录信息全部加密，成为互联网安全的一个基本解决方案，迅速在全世界获得推广，目前已经成为Linux系统的标准配置。
+
+口令登录
+公钥指纹
+当远程主机的公钥被接受以后，它就会被保存在文件$HOME/.ssh/known_hosts之中。
+下次再连接这台主机，系统就会认出它的公钥已经保存在本地了，从而跳过警告部分，直接提示输入密码。
+
+公钥登录
+用ssh-keygen生成，在$HOME/.ssh/目录下，会新生成两个文件：id_rsa.pub和id_rsa。
+远程主机将用户的公钥，保存在登录后的用户主目录的$HOME/.ssh/authorized_keys文件中。
+```
+
 
 #### TCP ####
  - <http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html>
