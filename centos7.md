@@ -11,7 +11,7 @@
 
 ---
 
-#### java 自动部署 ####
+#### java 自动部署（太重了 不建议使用） ####
 
 jenkins自动部署
 <https://blog.csdn.net/zhangzhangjava/article/details/78425106>
